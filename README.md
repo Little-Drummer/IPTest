@@ -1,11 +1,6 @@
 # IP 工具箱
 
-![GitHub Repo stars](https://img.shields.io/github/stars/jason5ng32/MyIP)
-![GitHub](https://img.shields.io/github/license/jason5ng32/MyIP)
-![GitHub contributors](https://img.shields.io/github/contributors/jason5ng32/MyIP)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/jason5ng32/MyIP)
-
-在这里体验：[jason5ng32.github.io/MyIP](https://jason5ng32.github.io/MyIP/)
+在这里体验：[little-drummer.github.io/IPTest](https://little-drummer.github.io/IPTest/)
 
 备注：体验地址的一些数据可能出不来，是因为最近用的人比较多……（我也实在没想到），自己部署一下就好。
 
@@ -57,7 +52,3 @@ DOMAIN-SUFFIX,ipify.org,Proxy
 ## 额外说明
 
 这个程序的 80% 的代码不是我写的，是通过 ChatGPT 写的。大概来回 50 个回合，外加一些细微的手动修改，完成了全部代码。
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=jason5ng32/MyIP&type=Date)](https://star-history.com/#jason5ng32/MyIP&Date)
